@@ -107,4 +107,4 @@ Ouvrez ensuite le fichier PARTIE-2.md
 
 [metier-uml]: https://drive.google.com/file/d/1hywxcUTtbVRyL7lheg-Xm3hR1cSKWP0F/view?usp=sharing
 [package-user-uml]: https://drive.google.com/file/d/1fv3A-LL1bbCEDkctDX-feOvsbhBxbpwX/view?usp=sharing
-[cours-api-spring]: https://nathanael-gimenez.canoprof.fr/eleve/DA4%20-%20Programmation%20Avanc%C3%A9e/activities/API_REST_avec_Spring.html
+[cours-api-spring]: https://nathanael-gimenez.canoprof.fr/eleve/DA4%20-%20Programmation%20Avanc%C3%A9e/activities/API_REST_avec_Spring.html# IssueTraker
